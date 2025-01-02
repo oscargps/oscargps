@@ -4,12 +4,11 @@ Passion for tech, engineering and innovation.
 
 Colombian, electronic engineer, software developer, pet lover.
 
-- 2+ Years leading teams in many industries and projects.
-- 3+ Years in web fullstack development with Javascript, PHP &
-NodeJs, including libraries like React Js, Router, Redux, etc and
-frameworks like Yii2 or Vue Js. Relational Databases and Version Control systems.
-- Basics in React Native, Python and Serverless architecture with AWS.
-- Good Soft Skills and always looking for the best practices.
+- Over 5 years of experience in Full Stack web development using JavaScript, TypeScript, Node.js, PHP, and Java, including libraries such as React, Router, and Redux, and frameworks like Vue.js, Remix, and Spring Boot. Proficient in version control systems and relational databases like MySQL, as well as non-relational databases such as Redis and DynamoDB, and cloud services with AWS..
+- More than 2 years of experience leading teams across various industries and projects with a collaborative and agile approach.
+- Expertise in design patterns with a focus on micro-frontend and microservices architectures, object-oriented programming, and adherence to SOLID, DRY, and YAGNI principles.
+- Knowledge of React Native, Python, and serverless infrastructure using AWS.
+- Strong communication skills, leadership, mentoring abilities, and a growth mindset.
 
 Looking for the best place to grow together.
 
